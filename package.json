@@ -1,7 +1,7 @@
 {
   "name": "api_node_94",
   "version": "1.0.0",
-  "description": "proyecto grupo 94",
+  "description": "proyecto del grupo 94",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
